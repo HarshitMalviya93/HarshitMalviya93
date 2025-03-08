@@ -1,4 +1,4 @@
-![logo](https://github.com/HarshitMalviya93/HarshitMalviya93/blob/main/hash%20cover%20.jpg)
+![logo](https://github.com/HarshitMalviya93/HarshitMalviya93/blob/main/hash%20cover%20final.jpg)
 <h1 align="center">Hi 👋, I'm Harshit Malviya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
