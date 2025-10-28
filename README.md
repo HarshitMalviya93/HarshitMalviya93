@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/HARSHIT_MALVIYA.93?utm_source=linktree_profile_share&ltsid=d3ee6102-e277-4f4f-b6b3-9033b5a06d89](https://linktr.ee/HARSHIT_MALVIYA.93?utm_source=linktree_profile_share&ltsid=d3ee6102-e277-4f4f-b6b3-9033b5a06d89)
+- 👨‍💻 All of my projects are available at [https://harshitmalviya1-portfolio.netlify.app/](https://harshitmalviya1-portfolio.netlify.app/)
 
 - 📫 How to reach me **harshitmalviya9302@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OlNTjhZULe3ASh7ucra9eXUbudKKCtST/view?usp=sharing](https://drive.google.com/file/d/1OlNTjhZULe3ASh7ucra9eXUbudKKCtST/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OlIEcwchF5u3e2HcFOu4GDOvaf6HdYzT/view?usp=sharing](https://drive.google.com/file/d/1OlIEcwchF5u3e2HcFOu4GDOvaf6HdYzT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
