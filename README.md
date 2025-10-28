@@ -1,6 +1,6 @@
 ![logo](https://github.com/HarshitMalviya93/HarshitMalviya93/blob/main/hash%20cover%20final.jpg)
 <h1 align="center">Hi 👋, I'm Harshit Malviya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java FullStack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mal93513harshit" target="blank"><img src="https://img.shields.io/twitter/follow/mal93513harshit?logo=twitter&style=for-the-badge" alt="mal93513harshit" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [https://harshitmalviya1-portfolio.netlify.app/](https://harshitmalviya1-portfolio.netlify.app/)
 
